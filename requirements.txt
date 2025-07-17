@@ -3,3 +3,4 @@ openai
 elevenlabs
 requests
 Pillow
+pydub
